@@ -1,5 +1,5 @@
 {
-    "name": "@themaximalist/ai.js",
+    "name": "@ag076810/ai.js",
     "version": "0.1.5",
     "description": "Effortlessly integrate AI text and image models in your node applications",
     "main": "src/index.js",
@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/themaximal1st/ai.js.git"
+        "url": "git+https://github.com/ag076810/ai.js.git"
     },
     "bin": {
         "ai": "src/cli.js"
@@ -30,9 +30,9 @@
     "author": "The Maximalist",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/themaximal1st/ai.js/issues"
+        "url": "https://github.com/ag076810/ai.js/issues"
     },
-    "homepage": "https://github.com/themaximal1st/ai.js#readme",
+    "homepage": "https://github.com/ag076810/ai.js#readme",
     "dependencies": {
         "@anthropic-ai/sdk": "^0.4.3",
         "commander": "^10.0.1",
